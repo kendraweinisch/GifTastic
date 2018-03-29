@@ -1,0 +1,8 @@
+#gifsView {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gif {
+    margin: 2 px;
+}
